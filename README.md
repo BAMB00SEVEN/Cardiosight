@@ -9,7 +9,9 @@
 
 > ⚕️ **Disclaimer:** CardioSight is an educational/college-project screening demonstrator, **not** a certified diagnostic medical device. Any abnormal indication it reports should be verified by a qualified medical professional using clinical-grade equipment.
 
-> **Important** -- Refer to `docs/PE2.docx` file which contains the actual detailed report of this project , the readme file is for illustrative explanation of the project and contains synthetic data based assumption during trial and before implementing the project in real world.
+
+
+**Important** -- Refer to `docs/PE2.docx` file which contains the actual detailed report of this project , the readme file is for illustrative explanation of the project and contains synthetic data based assumption during trial and before implementing the project in real world.
 
 ---
 
