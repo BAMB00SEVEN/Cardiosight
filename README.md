@@ -13,7 +13,7 @@
 
 ## Important -------
 
-**Refer to `docs/PE2.docx` file which contains the actual detailed report of this project , the readme file is for illustrative explanation of the project and contains synthetic data based assumption during trial and before implementing the project in real world.**
+**Refer to `docs/PE2.docx` file which contains the actual detailed report of this project , the readme file is for illustrative explanation of the project and contains synthetic data based assumption during trial and before implementing the project in real world. It contains all the real images and code snippets used in the project**
 
 ---
 
