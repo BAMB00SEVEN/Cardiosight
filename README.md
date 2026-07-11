@@ -37,8 +37,7 @@
 16. [Future Scope](#-future-scope)
 17. [Cost Estimate](#-cost-estimate)
 18. [References](#-references)
-19. [Images To Add](#-images-still-to-add-by-you)
-20. [License](#-license)
+19. [License](#-license)
 
 ---
 
