@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+scikit-learn
+joblib
+matplotlib
+pyserial      # required only for --mode serial in inference_server.py
+flask         # required only for --mode wifi in inference_server.py
