@@ -9,6 +9,8 @@
 
 > ⚕️ **Disclaimer:** CardioSight is an educational/college-project screening demonstrator, **not** a certified diagnostic medical device. Any abnormal indication it reports should be verified by a qualified medical professional using clinical-grade equipment.
 
+> **Important** -- Refer to `docs/PE2.docx` file which contains the actual detailed report of this project , the readme file is for illustrative explanation of the project and contains synthetic data based assumption during trial and before implementing the project in real world.
+
 ---
 
 ## 📖 Table of Contents
@@ -293,7 +295,7 @@ CardioSight/
 │   ├── generate_confusion_matrix.py
 │   └── generate_hardware_diagram.py
 └── docs/
-    └── (add datasheets, wiring photos, report PDF here)
+    └── (report PDF here -- refer to the attached document "PE2.docx" for the real project details)
 ```
 
 ---
